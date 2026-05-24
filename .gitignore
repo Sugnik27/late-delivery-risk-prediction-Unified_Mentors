@@ -16,6 +16,12 @@ __pycache__/
 # Raw dataset — too large for GitHub
 data/apl_logistics.csv
 
+# Large unused model files — not needed by Streamlit app
+models/random_forest.pkl
+models/logistic_regression.pkl
+models/xgboost_baseline.pkl
+models/xgboost_tuned.pkl
+
 # OS files
 .DS_Store
 Thumbs.db
