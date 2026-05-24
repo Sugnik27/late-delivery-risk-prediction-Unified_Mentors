@@ -1,0 +1,30 @@
+Feature,Importance Score,Rank
+shipping_delay_gap,0.7938,1
+Type,0.1671,2
+Days for shipment (scheduled),0.0023,3
+Customer Country,0.002,4
+Order Country,0.0019,5
+Market,0.0019,6
+region_congestion_score,0.0019,7
+Order State,0.0019,8
+Customer City,0.0019,9
+Order City,0.0018,10
+Customer State,0.0018,11
+Shipping Mode,0.0018,12
+Customer Segment,0.0018,13
+Order Region,0.0018,14
+Days for shipping (real),0.0018,15
+Department Name,0.0013,16
+shipping_pressure_index,0.0013,17
+Order Item Discount,0.0013,18
+Benefit per order,0.0013,19
+Order Item Profit Ratio,0.0013,20
+Product Name,0.0012,21
+order_complexity_score,0.0012,22
+Sales per customer,0.0012,23
+Order Item Discount Rate,0.0012,24
+Category Name,0.0012,25
+Order Item Product Price,0.0011,26
+Order Item Quantity,0.0011,27
+high_discount_flag,0.0,28
+is_express,0.0,29

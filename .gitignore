@@ -1,0 +1,30 @@
+# Virtual environment
+venvuni/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Raw dataset — too large for GitHub
+data/apl_logistics.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+*.log
